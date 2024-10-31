@@ -32,7 +32,9 @@
 *.app
 
 # build
-build/
+/build/
+# large file
+/third_parties/opencv-4.10.0/modules
 
 # bin
-bin/
+/bin/
